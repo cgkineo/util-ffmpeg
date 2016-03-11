@@ -1,0 +1,5 @@
+all: https://ffmpeg.org/download.html
+
+mac: http://evermeet.cx/ffmpeg/ffmpeg-3.0.7z
+linux: http://johnvansickle.com/ffmpeg/
+windows: https://ffmpeg.zeranoe.com/builds/

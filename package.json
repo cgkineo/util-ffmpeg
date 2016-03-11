@@ -1,0 +1,34 @@
+{
+  "name": "util-ffmpeg",
+  "version": "0.0.3",
+  "description": "Cross platform ffmpeg utility package",
+  "main": "./bin/index.js",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "osenv": "^0.1.0",
+    "minimatch": "^2.0.4",
+    "handlebars": "2.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oliverfoster/util-ffmpeg.git"
+  },
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/oliverfoster/util-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/oliverfoster/util-ffmpeg",
+  "maintainers": [
+    {
+      "name": "oliver.foster",
+      "email": "oliver.foster@kineo.com"
+    }
+  ],
+  "scripts": {
+    "postinstall": "node scripts/install.js"
+  },
+  "readme": "util-ffmpeg\n=============\n\n\nCross platform ffmpeg utility package",
+  "readmeFilename": "README.md",
+}
