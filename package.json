@@ -30,5 +30,5 @@
     "postinstall": "node scripts/install.js"
   },
   "readme": "util-ffmpeg\n=============\n\n\nCross platform ffmpeg utility package",
-  "readmeFilename": "README.md",
+  "readmeFilename": "README.md"
 }
