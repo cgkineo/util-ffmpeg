@@ -1,6 +1,6 @@
 {
   "name": "util-ffmpeg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cross platform ffmpeg utility package",
   "main": "./bin/index.js",
   "dependencies": {
